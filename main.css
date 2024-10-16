@@ -10,3 +10,10 @@ h1 {
 h2 {
     text-decoration: underline;
 }
+a:hover {
+    color: azure;
+}
+
+.intro{
+    font-size: x-large;
+}
