@@ -18,8 +18,8 @@ a:hover {
     font-size: x-large;
 }
 
-#idCopyright {
-    font-size: 10%;
+#Copyright {
+    font-size: 50%;
 }
 img#me {
     border: 20px solid gray; 
